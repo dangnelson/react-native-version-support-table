@@ -39,7 +39,7 @@ Example:
 *Complies with [react-native-version-support-table](https://github.com/dangnelson/react-native-version-support-table)*
 
 ###Multiple Versions
-Add multiple rows to show component versions successfully tested across additional Operating System or React Native versions. This should be used when there's a breaking change that doesn't allow the latest version of your component to support older verisons of React Native or Android / iOS. Links to seperate README files are recommended if documentation has changed between versions.
+Add multiple rows (sort from newest to oldest) to show component versions successfully tested across additional Operating System or React Native versions. This should be used when there's a breaking change that doesn't allow the latest version of your component to support older verisons of React Native or Android / iOS. Links to seperate README files are recommended if documentation has changed between versions.
 
 Example: 
 
@@ -59,8 +59,8 @@ Example:
 
 | Version | React Native Support | Android Support | iOS Support | Documentation |
 |---|---|---|---|---|
-| 1.0.1 - 1.0.7 | 0.27 | 5.0 - 6.0.1 | 7.2 - 9.3.5 | [README]() |
 | 1.0.8 | 0.28 - 0.32 | 7.0 - 7.1 | 10.0.0 - 10.0.2 | [README]() |
+| 1.0.1 - 1.0.7 | 0.27 | 5.0 - 6.0.1 | 7.2 - 9.3.5 | [README]() |
 
 
 ##Components Currently Supporting This Standard
