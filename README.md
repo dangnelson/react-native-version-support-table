@@ -39,7 +39,7 @@ Example:
 *Complies with [react-native-version-support-table](https://github.com/dangnelson/react-native-version-support-table)*
 
 ###Multiple Versions
-Add multiple rows to show versions successfully tested across additional Operating System or React Native versions. This should be used when there's a breaking change that doesn't allow the latest version of your component to support older verisons of React Native or Android / iOS.
+Add multiple rows to show component versions successfully tested across additional Operating System or React Native versions. This should be used when there's a breaking change that doesn't allow the latest version of your component to support older verisons of React Native or Android / iOS.
 
 Example: 
 
