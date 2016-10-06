@@ -13,6 +13,10 @@ Solves the problem many developers face when starting new RN projects with multi
 
 Saves module developers the headache of additional issues being created because they don't yet support new versions.
 
+##Placement
+
+Add before your first H1 header. This allows for developers to see whether or not your module is compatiable with their app before diving into your documentation.
+
 ##Markdown
 Copy this Markdown and add it to the beginning of your README file before the first header.
 ```
