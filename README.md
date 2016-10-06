@@ -1,5 +1,5 @@
 # react-native-version-support-table
-A standardized table to be added to the beginning of React Native module README files which shows the latest version number and which version of React Native, iOS, & Android it was successfully last tested on by the developer.
+A standardized table to be added to the beginning of React Native component README files which shows the latest version number and which version of React Native, iOS, & Android it was successfully last tested on by the developer.
 
 ##Example
 
@@ -9,15 +9,15 @@ A standardized table to be added to the beginning of React Native module README 
 *Complies with [react-native-version-support-table](https://github.com/dangnelson/react-native-version-support-table)*
 
 ##What this solves
-Help solves the problem many developers face when starting new React Native projects with multiple modules where build and or usage errors occur. Makes troubleshooting / choosing versions a more transparent process.
+Help solves the problem many developers face when starting new React Native projects with multiple components where build and or usage errors occur. Makes troubleshooting / choosing versions a more transparent process.
 
-Saves module developers the headache of additional repository issues being created because new versions aren't yet supported.
+Saves component developers the headache of additional repository issues being created because new versions aren't yet supported.
 
 ##Usage
 
 ###Placement
 
-Add before your first H1 header. This allows for developers to see whether or not your module is compatiable with their app before diving into your documentation.
+Add before your first H1 header. This allows for developers to see whether or not your component is compatiable with their app before diving into your documentation.
 
 ###Markdown
 Copy this Markdown and add it to the beginning of your README file before the first header.
@@ -39,7 +39,7 @@ Example:
 *Complies with [react-native-version-support-table](https://github.com/dangnelson/react-native-version-support-table)*
 
 ###Multiple Versions
-Add multiple rows to show versions successfully tested across additional Operating System or React Native versions. This should be used when there's a breaking change that doesn't allow the latest version of your module to support older verisons of React Native or Android / iOS.
+Add multiple rows to show versions successfully tested across additional Operating System or React Native versions. This should be used when there's a breaking change that doesn't allow the latest version of your component to support older verisons of React Native or Android / iOS.
 
 Example: 
 
@@ -49,4 +49,4 @@ Example:
 | 0.9.2 | 0.33.0 | 7.1 | 10.0.2 |
 *Complies with [react-native-version-support-table](https://github.com/dangnelson/react-native-version-support-table)*
 
-##Modules Currently Supporting This Standard
+##Components Currently Supporting This Standard
