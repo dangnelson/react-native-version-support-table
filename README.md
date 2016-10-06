@@ -22,7 +22,7 @@ Copy this Markdown and add it to the beginning of your README file before the fi
 *Complies with [react-native-version-support-table](https://github.com/dangnelson/react-native-version-support-table)*
 ```
 
-##iOS / Android only
+##iOS / Android Only
 Use "NONE" in place of version number.
 
 Example:
