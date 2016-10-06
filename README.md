@@ -9,7 +9,7 @@ A standardized table to be added to the beginning of React-Native module README 
 *Complies with [react-native-version-support-table](https://github.com/dangnelson/react-native-version-support-table)*
 
 ##What this solves
-Solves the problem many developers face when starting new React Native projects with multiple modules and end up with build and or usage errors.
+Help solves the problem many developers face when starting new React Native projects with multiple modules where build and or usage errors occur. Makes troubleshooting / choosing versions a more transparent process.
 
 Saves module developers the headache of additional repository issues being created because new versions aren't yet supported.
 
