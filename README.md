@@ -17,7 +17,7 @@ Saves component developers the headache of additional repository issues being cr
 
 ###Placement
 
-Add before your first H1 header. This allows for developers to see whether or not your component is compatiable with their app before diving into your documentation.
+Add after your first H1 title header. This allows for developers to see whether or not your component is compatiable with their app before diving into your documentation.
 
 ###Markdown
 Copy this Markdown and add it to the beginning of your README file before the first header. Change the version numbers to the latest you've tested your component on.
@@ -48,6 +48,20 @@ Example:
 | 1.0.0 | 0.34.1 | 7.1 | 10.0.2 | [README]() |
 | 0.9.2 | 0.33.0 | 7.1 | 10.0.2 | [README]() |
 *Complies with [react-native-version-support-table](https://github.com/dangnelson/react-native-version-support-table)*
+
+###Version Ranges
+
+For a range of versions use a dash ( **-** ).
+
+Don't use less than or equal to ( **<=** ) or greater than or equal to ( **>=** ) symbols as they suggests there's support for past/future versions the component may not actually work with.
+
+Example: 
+
+| Version | React Native Support | Android Support | iOS Support | Documentation |
+|---|---|---|---|---|
+| 1.0.1 - 1.0.7 | 0.27 | 5.0 - 6.0.1 | 7.2 - 9.3.5 | [README]() |
+| 1.0.8 | 0.28 - 0.32 | 7.0 - 7.1 | 10.0.0 - 10.0.2 | [README]() |
+
 
 ##Components Currently Supporting This Standard
 
