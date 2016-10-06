@@ -23,7 +23,9 @@ Copy this Markdown and add it to the beginning of your README file before the fi
 
 ##iOS / Android only
 Use "NONE" in place of version number.
+
 Example:
+
 | Latest Release | React Native Support | Android Support | iOS Support |
 |---|---|---|---|
 | 0.0.1 | 0.34.1 | NONE | 10.0.2 |
