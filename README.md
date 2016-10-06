@@ -50,3 +50,7 @@ Example:
 *Complies with [react-native-version-support-table](https://github.com/dangnelson/react-native-version-support-table)*
 
 ##Components Currently Supporting This Standard
+
+NONE YET
+
+Please add a New Issue if there's a component you know of using this standard that's not on the list.
