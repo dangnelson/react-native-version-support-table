@@ -20,7 +20,7 @@ Saves component developers the headache of additional repository issues being cr
 Add before your first H1 header. This allows for developers to see whether or not your component is compatiable with their app before diving into your documentation.
 
 ###Markdown
-Copy this Markdown and add it to the beginning of your README file before the first header.
+Copy this Markdown and add it to the beginning of your README file before the first header. Change the version numbers to the latest you've tested your component on.
 ```
 | Version | React Native Support | Android Support | iOS Support |
 |---|---|---|---|
