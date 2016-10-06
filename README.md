@@ -38,4 +38,4 @@ Example:
 | 0.0.1 | 0.34.1 | NONE | 10.0.2 |
 *Complies with [react-native-version-support-table](https://github.com/dangnelson/react-native-version-support-table)*
 
-##Modules Currently Using This Standard
+##Modules Currently Supporting This Standard
