@@ -61,6 +61,7 @@ Example:
 |---|---|---|---|---|
 | 1.0.8 | 0.28 - 0.32 | 7.0 - 7.1 | 10.0.0 - 10.0.2 | [README]() |
 | 1.0.1 - 1.0.7 | 0.27 | 5.0 - 6.0.1 | 7.2 - 9.3.5 | [README]() |
+*Complies with [react-native-version-support-table](https://github.com/dangnelson/react-native-version-support-table)*
 
 
 ##Components Currently Supporting This Standard
