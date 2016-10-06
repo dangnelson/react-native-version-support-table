@@ -1,5 +1,5 @@
 # react-native-version-support-table
-A standarized table to be added to the beginning of React-Native module README files which shows the latest version number and which version of React Native, iOS, & Android it was successfully last tested on by the developer.
+A standardized table to be added to the beginning of React-Native module README files which shows the latest version number and which version of React Native, iOS, & Android it was successfully last tested on by the developer.
 
 ##Example
 
