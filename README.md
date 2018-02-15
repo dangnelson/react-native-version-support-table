@@ -67,5 +67,6 @@ Example:
 ## Components Currently Supporting This Standard
 
 * [react-native-permissions](https://github.com/yonahforst/react-native-permissions)
+* [tcomb-form-native](https://github.com/gcanti/tcomb-form-native)
 
 Please add a New Issue if there's a component you know of using this standard that's not on the list.
