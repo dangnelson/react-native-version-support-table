@@ -6,6 +6,7 @@ A standardized table to be added to the beginning of React Native component READ
 | Version | React Native Support | Android Support | iOS Support |
 |---|---|---|---|
 | 0.0.1 | 0.34.1 | 7.1 | 10.0.2 |
+
 *Complies with [react-native-version-support-table](https://github.com/dangnelson/react-native-version-support-table)*
 
 ## What this solves
@@ -25,6 +26,7 @@ Copy this Markdown and add it to the beginning of your README file before the fi
 | Version | React Native Support | Android Support | iOS Support |
 |---|---|---|---|
 | 0.0.1 | 0.34.1 | 7.1 | 10.0.2 |
+
 *Complies with [react-native-version-support-table](https://github.com/dangnelson/react-native-version-support-table)*
 ```
 
@@ -36,6 +38,7 @@ Example:
 | Version | React Native Support | Android Support | iOS Support |
 |---|---|---|---|
 | 0.0.1 | 0.34.1 | NONE | 10.0.2 |
+
 *Complies with [react-native-version-support-table](https://github.com/dangnelson/react-native-version-support-table)*
 
 ### Multiple Versions
@@ -47,6 +50,7 @@ Example:
 |---|---|---|---|---|
 | 1.0.0 | 0.34.1 | 7.1 | 10.0.2 | [README]() |
 | 0.9.2 | 0.33.0 | 7.1 | 10.0.2 | [README]() |
+
 *Complies with [react-native-version-support-table](https://github.com/dangnelson/react-native-version-support-table)*
 
 ### Version Ranges
@@ -61,6 +65,7 @@ Example:
 |---|---|---|---|---|
 | 1.0.8 | 0.28 - 0.32 | 7.0 - 7.1 | 10.0.0 - 10.0.2 | [README]() |
 | 1.0.1 - 1.0.7 | 0.27 | 5.0 - 6.0.1 | 7.2 - 9.3.5 | [README]() |
+
 *Complies with [react-native-version-support-table](https://github.com/dangnelson/react-native-version-support-table)*
 
 
